@@ -5,8 +5,5 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://lucasosuza.github.io/blog',
-	base: '/blog/',
-  trailingSlash: "never",
 	integrations: [mdx(), sitemap()],
 });
