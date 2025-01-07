@@ -1,4 +1,8 @@
-# Astro Starter Kit: Blog
+# Lucas Souza Blog
+
+This is the repo of the blog, all the content is structured using Astro as follows the initial documentation.
+
+## Astro Starter Kit: Blog
 
 ```sh
 npm create astro@latest -- --template blog
